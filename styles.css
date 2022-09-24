@@ -123,6 +123,7 @@ padding-bottom: 20px;
  margin-top: 0px;
 } */
 .third{
+  display:block;
   margin:0px auto auto auto;
   background-color: #A3DEC9;
   padding-bottom:20px;
